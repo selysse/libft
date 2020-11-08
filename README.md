@@ -1,8 +1,8 @@
 ## LIBFT
 
-![Build Status](https://img.shields.io/github/last-commit/selysse/libft?style=plastic)
 ![Build Status](https://img.shields.io/github/languages/code-size/selysse/libft)
 ![Build Status](https://img.shields.io/github/contributors/selysse/libft)
+![Build Status](https://img.shields.io/github/last-commit/selysse/libft?style=plastic)
 
 My repositories for the 21(42) schools "libft" project
 
