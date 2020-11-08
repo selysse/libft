@@ -1,6 +1,5 @@
 ## LIBFT
 
-![Build Status](https://img.shields.io/github/followers/selysse?color=green&style=plastic)
 ![Build Status](https://img.shields.io/github/last-commit/selysse/libft?style=plastic)
 ![Build Status](https://img.shields.io/github/languages/code-size/selysse/libft)
 ![Build Status](https://img.shields.io/github/contributors/selysse/libft)
