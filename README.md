@@ -9,7 +9,7 @@ My repositories for the 21(42) schools "libft" project
 ![GitHub Logo](/png/result.png)
 
 ```sh
-$ git clone
+$ git clone https://github.com/selysse/libft
 $ cd libft
 $ make
 ```
